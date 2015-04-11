@@ -21,6 +21,9 @@ void Main()
 	string[] names = {"john","james", "jane"};
 	
 	names.Dump();
+	
+	long[] money = {1,43,5,43,};
+	
 }
 
 // Define other methods and classes here
