@@ -15,6 +15,12 @@ void Main()
 	f.Where(n => n.Name.StartsWith("T")).Dump();
 	
 	int[] num = {1,2,3,4,5,6,7,8,9};
+	
+	num.Dump();
+	
+	string[] names = {"john","james", "jane"};
+	
+	names.Dump();
 }
 
 // Define other methods and classes here
